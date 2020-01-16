@@ -56,3 +56,31 @@
 
 >JavaScript
 * [W3Schools - JavaScript](https://www.w3schools.com/js/default.asp)
+
+***
+### YouTube
+
+* [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)  _Programador Brasileiro que está morando no Canadá - Fala de Markeding para Programadores_
+
+* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) _Programador Brasileiro que está morando no Canadá. Trabalhou no Pagar.me - Fala de Programação, tecnologia atual._
+
+* [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) _Dicionário do Programador_
+
+* [BrazilJS](https://www.youtube.com/user/BrazilJS) _Fala sobre as novidades da linguagem e as novidades da programação_
+
+* [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) _Fala sobre programação de forma geral_
+
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) _Canal Fantástico pra quem Ama JS_
+
+* [Bonieky Lacerda](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ) _Fala sobre programação de forma Geral_
+
+* [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) _Fala sobre programação - Tem muitos cursos no canal, manda muito_
+
+***
+### Sites 
+
+* [Digital Innovation One](https://digitalinnovation.one/) _Vários cursos e Bootcamps de forma gratuita e de boa qualidade, emitindo certificado e podendo ainda compartilhar no Linkedin_
+
+* [C Progressivo](https://www.cprogressivo.net/) _Blog Fantástico que ensina a programar de forma bem simples e didática_
+
+* [Rocketseat](https://skylab.rocketseat.com.br/dashboard) _Esse site pra ama JavaScript_
