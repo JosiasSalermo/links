@@ -83,4 +83,4 @@
 
 * [C Progressivo](https://www.cprogressivo.net/) _Blog Fantástico que ensina a programar de forma bem simples e didática_
 
-* [Rocketseat](https://skylab.rocketseat.com.br/dashboard) _Esse site pra ama JavaScript_
+* [Rocketseat](https://skylab.rocketseat.com.br/dashboard) _Para quem ama JavaScript_
