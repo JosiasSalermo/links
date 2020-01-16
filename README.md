@@ -1,5 +1,10 @@
 
-# Editor de Texto
+#### Editor de Texto
 
-* [![Visual Studio Code](https://github.com/JosiasSalermo/links/blob/master/img/vscode.png)](https://code.visualstudio.com/download) - IDE da Microsoft
+*  [![Visual Studio Code](https://code.visualstudio.com/download)](/img/vscode.png)
 
+#### Gerenciamento de Projetos
+
+* [Trello](https://www.trello.com/)
+
+* [Evernote](https://evernote.com/intl/pt-br)
