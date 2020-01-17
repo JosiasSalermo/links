@@ -38,6 +38,8 @@
 * [Java Módulo 2: Intermediário - Canal Youtube Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI "Grátis") _Continuação do curso de Java Básico_ 
 * [Estrutura de Dados e Algoritmos Java - Canal YouTube Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi "Grátis") _Estrutura de dados e algoritmos com Java_
 
+* [Java 13 Completo: Do Zero ao Profissional + Projetos Reais - Udemy](https://www.udemy.com/share/101rUmB0UfcF5XRHo=/) _Fundamentos Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate e mais_
+
 >Git e GitHub
 * [Introdução ao Git e Controle de Versões - Digital Innovation One](https://web.digitalinnovation.one/course/introducao-ao-git-e-controle-de-versoes/learning/42bf37cc-ed9c-4cee-ade4-d822f6a99f82/ "Grátis") _Introdutório ao Git_
 
