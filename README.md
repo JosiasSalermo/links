@@ -1,8 +1,13 @@
 
-#### Editor de Código
+### Editor de Código
 
 *  [Visual Studio Code](https://code.visualstudio.com/download "Grátis") _IDE da Microsoft - html/css/javascript/md/c/_
 
+>Configurações do VSCode
+
+* [Tema e Extensões](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
+
+* [Compilar C no VSCode](https://github.com/JosiasSalermo/Compilar_C_no_VSCode) 
 
 
 #### Gerenciamento de Projetos
@@ -15,7 +20,7 @@
 ### Cursos
 
 >C
-*  [C Progressivo](https://www.cprogressivo.net/ "Grátis") - _blog_
+*  [C Progressivo](https://www.cprogressivo.net/p/curso-de-c-online-para-iniciantes.html) - _blog ensinando sobre a linguagem_
 
 
 >HTML
@@ -47,6 +52,7 @@
 
 * [Curso Completo de Git - Canal Youtube Bonieky Lacerda](https://www.youtube.com/watch?v=OuOb1_qADBQ&t=708s "Grátis") _Comandos do Git e GitHub_
 
+* [Aprenda Markdown](https://github.com/JosiasSalermo/aprendaMarkdown) - Comandos para deixar o README Bonito e claro
 
 ***
 ### Documentação
@@ -78,6 +84,9 @@
 
 * [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) _Fala sobre programação - Tem muitos cursos no canal, manda muito_
 
+* [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) _Programador brasileiro que está morando na Holanda - Dá muitas dicas de como conseguir ser um bom programador e conseguir um emprego_
+
+* [João Ribeiro](https://www.youtube.com/user/JLDRPT) _Canal Português com vários cursos(JS, HTML/CSS, Bootstrap, VueJS, GitHub, React e Web Novato ao Profissional)_
 ***
 ### Sites 
 
@@ -86,3 +95,5 @@
 * [C Progressivo](https://www.cprogressivo.net/) _Blog Fantástico que ensina a programar de forma bem simples e didática_
 
 * [Rocketseat](https://skylab.rocketseat.com.br/dashboard) _Para quem ama JavaScript_
+
+*** 
