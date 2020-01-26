@@ -36,7 +36,15 @@
 
 * [JavaScript Moderno do Básico ao Avançado (2020) - Udemy](https://www.udemy.com/share/1026xaB0UfcF5XRHo=/ "Pago") _Javascript moderno (ES6+), front-end e back-end (Node, Express, SQL e noSQL, React e Redux + Saga) - Full Stack 2020_
 
-* [Rocketseat](https://skylab.rocketseat.com.br/journey/starter "Grátis") _JavaScript/Node/React/React Native_
+* [JavaScript - Rocketseat](https://skylab.rocketseat.com.br/journey/starter "Grátis") _Introdução a linguagem_
+
+* [ES6 - Rocketseat](https://skylab.rocketseat.com.br/journey/starter "Grátis") _Apresenta o que foi atualizado na linguagem_
+
+>Node
+
+* [Node - Rocketseat](https://skylab.rocketseat.com.br/journey/starter "Grátis") _Introdução a linguagem_
+
+* [Node](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) _Curso Completo do Canal Victor Lima_
 
 >Java
 * [Java Básico Gratuito com Certificado e Forum - Canal YouTube Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r "Grátis") _Curso Introdutório a Java SE_
@@ -50,9 +58,9 @@
 
 * [Introdução ao GitHub e comandos essenciais para trabalhar em equipe - Digital Innovation One](https://web.digitalinnovation.one/course/introducao-ao-github-e-comandos-essenciais-para-trabalhar-em-equipe/learning/6407ce79-a7c1-4305-8be2-94082edc2049/) _Introdutório ao GitHub_
 
-* [Curso Completo de Git - Canal Youtube Bonieky Lacerda](https://www.youtube.com/watch?v=OuOb1_qADBQ&t=708s "Grátis") _Comandos do Git e GitHub_
+* [Curso Completo de Git](https://www.youtube.com/watch?v=OuOb1_qADBQ&t=708s "Grátis") _Canal do YouTube Banieky Lacerda_
 
-* [Aprenda Markdown](https://github.com/JosiasSalermo/aprendaMarkdown) - Comandos para deixar o README Bonito e claro
+* [Aprenda Markdown](https://github.com/JosiasSalermo/aprendaMarkdown) _Comandos para deixar o README Bonito_
 
 ***
 ### Documentação
