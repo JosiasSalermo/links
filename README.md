@@ -7,6 +7,10 @@
 
 * [Tema e Extensões](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
 
+* [Curso de VSCode](https://www.youtube.com/playlist?list=PL5EmR7zuTn_a6jp9_Gn-lceRCC6CGlv9C) _Curso Completo de dicas de como utilizar o VSCode - Canal do YouTube Daves_
+
+* [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) _Extensão que faz backup de todas extensões e configurações instaladas no seu VSCode_
+
 * [Compilar C no VSCode](https://github.com/JosiasSalermo/Compilar_C_no_VSCode) 
 
 
@@ -95,6 +99,8 @@
 * [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) _Programador brasileiro que está morando na Holanda - Dá muitas dicas de como conseguir ser um bom programador e conseguir um emprego_
 
 * [João Ribeiro](https://www.youtube.com/user/JLDRPT) _Canal Português com vários cursos(JS, HTML/CSS, Bootstrap, VueJS, GitHub, React e Web Novato ao Profissional)_
+
+* [Danki Codi](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) _Canal oficial do Curso Danki Codi - Fala além dos próprios cursos, de tecnoligia, mercado e programação_
 ***
 ### Sites 
 
