@@ -7,7 +7,6 @@
 
 * [Tema e Extensões](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
 
-* [Curso de VSCode](https://www.youtube.com/playlist?list=PL5EmR7zuTn_a6jp9_Gn-lceRCC6CGlv9C) _Curso Completo de dicas de como utilizar o VSCode - Canal do YouTube Daves_
 
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) _Extensão que faz backup de todas extensões e configurações instaladas no seu VSCode_
 
