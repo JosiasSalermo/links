@@ -147,8 +147,11 @@
 
 >C
 
-* [C/C++]() _Adiciona suporte de linguagem para C / C ++ ao Visual Studio Code, incluindo recursos como IntelliSense e depuração._
+[![]("Adiciona suporte de linguagem para C / C ++ ao Visual Studio Code, incluindo recursos como IntelliSense e depuração.")]()
+
 
 >HTML
 
-* [![Auto Rename Tag](https://github.com/JosiasSalermo/links/blob/master/img/autoRenameTag.jpg "Mudando a tag inicial, automaticamente irá mudar a tag final")](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 
+[![](https://github.com/JosiasSalermo/links/blob/master/img/autoRenameTag.jpg "Mudando a tag inicial, automaticamente irá mudar a tag final")](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 
+
+
