@@ -2,26 +2,27 @@
 
 ### Temas para Code::Blocks
 
-* [Sublime](https://github.com/JosiasSalermo/TemaCode-Blocks)_Tema Sublime para melhor visualização na hora de codar_
+* [Sublime](https://github.com/JosiasSalermo/TemaCode-Blocks)_Tema Sublime para facilitar na hora de codar_
 
 
 ### Editor de Código
 
 *  [Visual Studio Code](https://code.visualstudio.com/download "Grátis") _IDE da Microsoft - html/css/javascript/md/c/_
 
->Configurações do VSCode
+#### Configurações do VSCode 
 
-* [Tema e Extensões](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
+* [Tema e Extensões - FrontEnd](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
 
+* [Extensões Python](https://www.youtube.com/watch?v=I8qaQoNITFI) _Dicas de Extensões para Pyton do Canal DevShow_
 
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) _Extensão que faz backup de todas extensões e configurações instaladas no seu VSCode_
 
-* [Compilar C no VSCode](https://github.com/JosiasSalermo/Compilar_C_no_VSCode) 
+* [Compilar C no VSCode](https://github.com/JosiasSalermo/Compilar_C_no_VSCode) _Apesar do VSCode não ser uma IDE, com algumas configurações rápidas, ele compila C_
 
 
 #### Gerenciamento de Projetos
 
-* [Trello](https://www.trello.com/ "Grátis/Pago") _Gerencie seus projetos com quadros_
+* [Trello](https://www.trello.com/ "Grátis/Pago") _Gerencie seus projetos com quadros. É bom para projetos em grupo_
 
 * [Evernote](https://evernote.com/intl/pt-br "Grátis/Pago") _Notas autoadesivas na nuvem_
 
@@ -116,6 +117,8 @@
 * [Rodrigo Branas](https://www.youtube.com/rodrigobranas) _Programador, Palestrante e professor. O Canal fala sobre programação Web principalmente_  
 
 * [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) 
+
+* [CodeShow](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) _Canal de dicas para dev_
 
 
 ***
