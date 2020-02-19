@@ -112,6 +112,12 @@
 * [Danki Codi](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) _Canal oficial do Curso Danki Codi - Fala além dos próprios cursos, de tecnoligia, mercado e programação_
 
 * [Felipe Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg) _Fala sobre programação, atualização no mundo dev_
+
+* [Rodrigo Branas](https://www.youtube.com/rodrigobranas) _Programador, Palestrante e professor. O Canal fala sobre programação Web principalmente_  
+
+* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) 
+
+
 ***
 ### Sites 
 
