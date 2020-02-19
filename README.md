@@ -147,7 +147,7 @@
 
 >C
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/c-c%2B%2B.jpg "Adiciona suporte de linguagem para C / C ++ ao Visual Studio Code, incluindo recursos como IntelliSense e depuração.")]()
+[![](https://github.com/JosiasSalermo/links/blob/master/img/c-c++.jpg?raw=true "Adiciona suporte de linguagem para C / C ++ ao Visual Studio Code, incluindo recursos como IntelliSense e depuração.")](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
 
 >HTML
