@@ -140,3 +140,15 @@
 ### Portais
 
 [Pedro Mello](https://pedro-mello.netlify.com/) _Blog pessoal do Cicatriz_
+
+***
+
+### Extensões VSCode
+
+>C
+
+* [C/C++]() _Adiciona suporte de linguagem para C / C ++ ao Visual Studio Code, incluindo recursos como IntelliSense e depuração._
+
+>HTML
+
+* [![Auto Rename Tag]('img/autoRenameTag.jpg')](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) _Mudando a tag inicial, automaticamente irá mudar a tag final_
