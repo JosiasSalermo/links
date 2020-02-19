@@ -152,6 +152,6 @@
 
 >HTML
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/c-c%2B%2B.jpg "Mudando a tag inicial, automaticamente irá mudar a tag final")](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 
+[![](https://github.com/JosiasSalermo/links/blob/master/img/autoRenameTag.jpg "Mudando a tag inicial, automaticamente irá mudar a tag final")](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 
 
 
