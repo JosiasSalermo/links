@@ -1,4 +1,10 @@
 
+
+### Temas para Code::Blocks
+
+* [Sublime](https://github.com/JosiasSalermo/TemaCode-Blocks)_Tema Sublime para melhor visualização na hora de codar_
+
+
 ### Editor de Código
 
 *  [Visual Studio Code](https://code.visualstudio.com/download "Grátis") _IDE da Microsoft - html/css/javascript/md/c/_
@@ -25,6 +31,8 @@
 >C
 *  [C Progressivo](https://www.cprogressivo.net/p/curso-de-c-online-para-iniciantes.html) - _blog ensinando sobre a linguagem_
 
+* [De aluno para aluno](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) _Playlist de Vídeo Aulas do Canal De Aluno para Aluno sobre linguagem C_
+
 
 >HTML
 * [HTML: Introdução ao Desenvolvimento de páginas Web - IFRS](https://moodle.ifrs.edu.br/course/view.php?id=2007 "Grátis") _Curso Introdutório a linguagem de marcação_
@@ -37,7 +45,7 @@
 >JavaScript
 * [JavaScript - IFRS](https://moodle.ifrs.edu.br/course/view.php?id=2006 "Grátis") _Introdutório a linguagem JavaScript_
 
-* [JavaScript Moderno do Básico ao Avançado (2020) - Udemy](https://www.udemy.com/share/1026xaB0UfcF5XRHo=/ "Pago") _Javascript moderno (ES6+), front-end e back-end (Node, Express, SQL e noSQL, React e Redux + Saga) - Full Stack 2020_
+* [JavaScript Moderno do Básico ao Avançado (2020) - Udemy](https://www.udemy.com/share/1026x8B0UfcF5XRHo=/ "Pago") _Javascript moderno (ES6+), front-end e back-end (Node, Express, SQL e noSQL, React e Redux + Saga) - Full Stack 2020_
 
 * [JavaScript - Rocketseat](https://skylab.rocketseat.com.br/journey/starter "Grátis") _Introdução a linguagem_
 
@@ -51,7 +59,9 @@
 
 >Java
 * [Java Básico Gratuito com Certificado e Forum - Canal YouTube Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r "Grátis") _Curso Introdutório a Java SE_
+
 * [Java Módulo 2: Intermediário - Canal Youtube Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI "Grátis") _Continuação do curso de Java Básico_ 
+
 * [Estrutura de Dados e Algoritmos Java - Canal YouTube Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi "Grátis") _Estrutura de dados e algoritmos com Java_
 
 * [Java 13 Completo: Do Zero ao Profissional + Projetos Reais - Udemy](https://www.udemy.com/share/101rUmB0UfcF5XRHo=/) _Fundamentos Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate e mais_
@@ -100,6 +110,8 @@
 * [João Ribeiro](https://www.youtube.com/user/JLDRPT) _Canal Português com vários cursos(JS, HTML/CSS, Bootstrap, VueJS, GitHub, React e Web Novato ao Profissional)_
 
 * [Danki Codi](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) _Canal oficial do Curso Danki Codi - Fala além dos próprios cursos, de tecnoligia, mercado e programação_
+
+* [Felipe Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg) _Fala sobre programação, atualização no mundo dev_
 ***
 ### Sites 
 
