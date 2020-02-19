@@ -116,7 +116,7 @@
 
 * [Rodrigo Branas](https://www.youtube.com/rodrigobranas) _Programador, Palestrante e professor. O Canal fala sobre programação Web principalmente_  
 
-* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) 
+* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) _Fala sobre Inteligência Artificial_
 
 * [CodeShow](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) _Canal de dicas para dev_
 
@@ -167,3 +167,6 @@
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/run.jpg "Rodar o Node dentro do VSCode")](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
+>Utilitários
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/LiveServer.jpg "Servidor local para páginas somente com HTML, CSS e Javascript")](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
