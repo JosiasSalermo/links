@@ -1,15 +1,15 @@
 
 
-### Temas para Code::Blocks
+#### Temas para Code::Blocks
 
 * [Sublime](https://github.com/JosiasSalermo/TemaCode-Blocks)_Tema Sublime para facilitar na hora de codar_
 
 
-### Editor de Código
+#### Editor de Código
 
 *  [Visual Studio Code](https://code.visualstudio.com/download "Grátis") _IDE da Microsoft - html/css/javascript/md/c/_
 
-#### Configurações do VSCode 
+### Configurações do VSCode 
 
 * [Tema e Extensões - FrontEnd](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
 
@@ -20,7 +20,7 @@
 * [Compilar C no VSCode](https://github.com/JosiasSalermo/Compilar_C_no_VSCode) _Apesar do VSCode não ser uma IDE, com algumas configurações rápidas, ele compila C_
 
 
-#### Gerenciamento de Projetos
+### Gerenciamento de Projetos
 
 * [Trello](https://www.trello.com/ "Grátis/Pago") _Gerencie seus projetos com quadros. É bom para projetos em grupo_
 
@@ -131,3 +131,12 @@
 * [Rocketseat](https://skylab.rocketseat.com.br/dashboard) _Para quem ama JavaScript_
 
 *** 
+
+### Ferramentas para vida Acadêmica
+
+[Scihub](https://sci-hub.tw/) _Baixe artigos ciêntíficos_
+
+
+### Portais
+
+[Pedro Mello](https://pedro-mello.netlify.com/) _Blog pessoal do Cicatriz_
