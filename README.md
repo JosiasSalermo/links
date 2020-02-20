@@ -149,24 +149,50 @@
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/dracula.jpg "Melhor Tema")](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
+
 >C
+[![](https://github.com/JosiasSalermo/links/blob/master/img/c%20c%2B%2B.jpg "AutoComplite do C")](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/c-c++.jpg?raw=true "Adiciona suporte de linguagem para C / C ++ ao Visual Studio Code, incluindo recursos como IntelliSense e depuração.")](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/c%20c%2B%2B%20Compile.jpg)](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
 
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/run.jpg  "Compile e execute facilmente arquivos c / c ++ simples")](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
 
 >HTML
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/autoRenameTag.jpg "Mudando a tag inicial, automaticamente irá mudar a tag final")](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 
+[![](https://github.com/JosiasSalermo/links/blob/master/img/autoRename.jpg "Ao mudar a tag inicial automaticamente muda a tag de fechamento")](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/html%20css%20support.jpg)](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/html%20Snippets.jpg)](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/color%20highlight.jpg "Destaque cores da web no seu editor")](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+>CSS
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/colorHighlight.jpg "Esta extensão estiliza as cores css / web encontradas no seu documento.")](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/cssSnipt.jpg "Snippets CSS")](https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/image%20preview.jpg)](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+
+
+>JavaScript
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/es7.jpg "ES7/React")](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
 
 >Node
+[![](https://github.com/JosiasSalermo/links/blob/master/img/run.jpg "Rodar Node direto no VSCode")](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/run.jpg "Rodar o Node dentro do VSCode")](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+>Git
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/gitGraft.jpg)](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/gitlens.jpg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 >Utilitários
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/LiveServer.jpg "Servidor local para páginas somente com HTML, CSS e Javascript")](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+[![](https://github.com/JosiasSalermo/links/blob/master/img/eslint.jpg)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslintl)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/guides.jpg)](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
