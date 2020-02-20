@@ -149,6 +149,7 @@
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/dracula.jpg "Melhor Tema")](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
+[![](https://github.com/JosiasSalermo/links/blob/master/img/materialIcon.jpg)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 >C  
 
@@ -177,16 +178,26 @@
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/image%20preview.jpg)](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
+[![](https://github.com/JosiasSalermo/links/blob/master/img/intelliSense.jpg)](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+
 
 >JavaScript
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/es7.jpg "ES7/React")](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/javaScript.jpg)](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
 
 
 >Node  
 
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/run.jpg "Rodar Node direto no VSCode")](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+[!(https://github.com/JosiasSalermo/links/blob/master/img/nodeSnippets.jpg)](https://marketplace.visualstudio.com/items?itemName=chris-noring.node-snippets)
+
+>SQL
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/language%20pl-sql.jpg)](https://marketplace.visualstudio.com/items?itemName=xyz.plsql-language)
 
 
 >Git
@@ -195,8 +206,16 @@
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/gitlens.jpg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
+[![](https://github.com/JosiasSalermo/links/blob/master/img/markdown.jpg)](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
 >Utilitários
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/eslint.jpg)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslintl)
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/guides.jpg)](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/liveServer.jpg)](https://marketplace.visualstudio.com/search?term=live%20server&target=VSCode&category=All%20categories&sortBy=Relevance)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/liveShare.jpg)](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+[![](https://github.com/JosiasSalermo/links/blob/master/img/path.jpg)](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
