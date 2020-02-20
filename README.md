@@ -194,7 +194,7 @@
 [![](https://github.com/JosiasSalermo/links/blob/master/img/run.jpg "Rodar Node direto no VSCode")](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 
-[!(https://github.com/JosiasSalermo/links/blob/master/img/nodeSnippets.jpg)](https://marketplace.visualstudio.com/items?itemName=chris-noring.node-snippets)
+[![](https://github.com/JosiasSalermo/links/blob/master/img/nodeSnippets.jpg)](https://marketplace.visualstudio.com/items?itemName=chris-noring.node-snippets)
 
 
 >SQL
