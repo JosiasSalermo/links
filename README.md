@@ -150,7 +150,9 @@
 [![](https://github.com/JosiasSalermo/links/blob/master/img/dracula.jpg "Melhor Tema")](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
 
->C
+>C  
+
+
 [![](https://github.com/JosiasSalermo/links/blob/master/img/c%20c%2B%2B.jpg "AutoComplite do C")](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
 
@@ -169,9 +171,9 @@
 
 >CSS
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/colorHighlight.jpg "Esta extensão estiliza as cores css / web encontradas no seu documento.")](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+[![]( "Esta extensão estiliza as cores css / web encontradas no seu documento.")](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/cssSnipt.jpg "Snippets CSS")](https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets)
+[![]( "Snippets CSS")](https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets)
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/image%20preview.jpg)](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
@@ -181,13 +183,15 @@
 [![](https://github.com/JosiasSalermo/links/blob/master/img/es7.jpg "ES7/React")](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 
->Node
+>Node  
+
+
 [![](https://github.com/JosiasSalermo/links/blob/master/img/run.jpg "Rodar Node direto no VSCode")](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 
 >Git
 
-[![](https://github.com/JosiasSalermo/links/blob/master/img/gitGraft.jpg)](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+[![]()](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/gitlens.jpg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
