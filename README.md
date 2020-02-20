@@ -171,9 +171,9 @@
 
 >CSS
 
-[![]( "Esta extensão estiliza as cores css / web encontradas no seu documento.")](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+[![](https://github.com/JosiasSalermo/links/blob/master/img/colorHighlight.jpg "Esta extensão estiliza as cores css / web encontradas no seu documento.")](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-[![]( "Snippets CSS")](https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets)
+[![](https://github.com/JosiasSalermo/links/blob/master/img/cssSnipt.jpg "Snippets CSS")](https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets)
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/image%20preview.jpg)](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
@@ -191,7 +191,7 @@
 
 >Git
 
-[![]()](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+[![](https://github.com/JosiasSalermo/links/blob/master/img/gitGraft.jpg)](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 [![](https://github.com/JosiasSalermo/links/blob/master/img/gitlens.jpg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
