@@ -146,6 +146,7 @@
 * [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/featured) _Canal focado em ciêcia de dados_
 
 * [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) _Canal norte americano focado em programação e tutoriais de tecnologia_
+***
 
 ### Podcasts
 
