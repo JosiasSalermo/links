@@ -147,8 +147,15 @@
 
 * [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) _Canal norte americano focado em programação e tutoriais de tecnologia_
 
+### Podcasts
 
+* [Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf) _Podcast de tecnologia em geral da Alura_
 
+* [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93) _Podcast de ciência de dados da maior comunidade de cientistas de dados do país_
+
+* [Pizza de dados](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg) _Podcast de ciência de dados_
+
+* [DevCast](https://open.spotify.com/show/6PvMCroPUkjVYV76TDcVNv) _Podcast de tecnologia em geral da Dev Media_
 
 ***
 ### Sites 
