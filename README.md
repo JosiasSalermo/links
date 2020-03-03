@@ -1,8 +1,17 @@
 
+### TEMAS
 
 #### Temas para Code::Blocks
 
 * [Sublime](https://github.com/JosiasSalermo/TemaCode-Blocks)_Tema Sublime para facilitar na hora de codar_
+
+#### Tema Drácula para cmd
+
+* [Dracula cmd](https://github.com/dracula/powershell)_Tema Drácula para o terminal cmd e Powershell_
+
+#### Tema Drácula para VSCode
+
+* [Tema e Extensões - FrontEnd ](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
 
 
 #### Editor de Código
@@ -11,7 +20,6 @@
 
 ### Configurações do VSCode 
 
-* [Tema e Extensões - FrontEnd](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
 
 * [Extensões Python](https://www.youtube.com/watch?v=I8qaQoNITFI) _Dicas de Extensões para Pyton do Canal DevShow_
 
