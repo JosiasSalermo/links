@@ -18,6 +18,11 @@
 
 *  [Visual Studio Code](https://code.visualstudio.com/download "Grátis") _IDE da Microsoft - html/css/javascript/md/c/_
 
+#### Dicas para programar em python
+
+*  [Anaconda](https://www.anaconda.com/distribution/) _Instalar as bibliotecas usando o instalador de pacotes do Anaconda facilitará a sua vida, geralmente você tem que digitar no terminal: conda install 'nome do pacote'_
+
+
 ### Configurações do VSCode 
 
 
@@ -133,7 +138,7 @@
 
 * [João Ribeiro](https://www.youtube.com/user/JLDRPT) _Canal Português com vários cursos(JS, HTML/CSS, Bootstrap, VueJS, GitHub, React e Web Novato ao Profissional)_
 
-* [Danki Codi](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) _Canal oficial do Curso Danki Codi - Fala além dos próprios cursos, de tecnoligia, mercado e programação_
+* [Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) _Canal oficial do Curso Danki Code - Fala além dos próprios cursos, de tecnoligia, mercado e programação_
 
 * [Felipe Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg) _Fala sobre programação, atualização no mundo dev_
 
@@ -143,6 +148,38 @@
 
 * [CodeShow](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) _Canal de dicas para dev_
 
+* [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel/featured) _Canal de conteúdo diverso, mas geralmente mais voltado para área de dados_
+
+* [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) _Canal voltado mais para a área de Segurança_
+
+* [Universo Discreto](https://www.youtube.com/channel/UCEn6kONg6EC_Ylh0RlInsMw/featured) _Canal sobre conteúdo diverso_
+
+* [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/featured) _Canal de cursos básicos gratuitos de vários temas_
+
+* [Daniel Snows](https://www.youtube.com/user/DanielSnows1/featured) _Canal de speed art de UI, UX e front-end_
+
+* [Dev Ed](https://www.youtube.com/user/DanielSnows1/featured) _Canal norte americano de conteúdo diverso, mas geralmente mais voltado para UI, UX e front-end_
+
+* [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) _Canal focado em sistemas operacionais Linux_
+
+* [Jones Granatyr](https://www.youtube.com/channel/UCaGrIWpwjWXT6OIQh9W4Riw/feed) _Canal focado em IA_
+
+* [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ/featured) _Canal focado em python_
+
+* [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/featured) _Canal focado em ciêcia de dados_
+
+* [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) _Canal norte americano focado em programação e tutoriais de tecnologia_
+***
+
+### Podcasts
+
+* [Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf) _Podcast de tecnologia em geral da Alura_
+
+* [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93) _Podcast de ciência de dados da maior comunidade de cientistas de dados do país_
+
+* [Pizza de dados](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg) _Podcast de ciência de dados_
+
+* [DevCast](https://open.spotify.com/show/6PvMCroPUkjVYV76TDcVNv) _Podcast de tecnologia em geral da Dev Media_
 
 ***
 ### Sites 
