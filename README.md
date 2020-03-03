@@ -13,17 +13,20 @@
 
 * [Tema e Extensões - FrontEnd ](https://www.youtube.com/watch?v=c7P03kkrEG8) _Configurações da Rocketseat_
 
+***
 
-#### Editor de Código
+### EDITOR DE CÓDIGO
 
 *  [Visual Studio Code](https://code.visualstudio.com/download "Grátis") _IDE da Microsoft - html/css/javascript/md/c/_
 
-#### Dicas para programar em python
+***
+#### DICAS PARA PROGRAMAR EM PYTHON
 
 *  [Anaconda](https://www.anaconda.com/distribution/) _Instalar as bibliotecas usando o instalador de pacotes do Anaconda facilitará a sua vida, geralmente você tem que digitar no terminal: conda install 'nome do pacote'_
 
+***
 
-### Configurações do VSCode 
+### CONFIGURAÇÕES DO VSCODE
 
 
 * [Extensões Python](https://www.youtube.com/watch?v=I8qaQoNITFI) _Dicas de Extensões para Pyton do Canal DevShow_
@@ -32,15 +35,17 @@
 
 * [Compilar C no VSCode](https://github.com/JosiasSalermo/Compilar_C_no_VSCode) _Apesar do VSCode não ser uma IDE, com algumas configurações rápidas, ele compila C_
 
+***
 
-### Gerenciamento de Projetos
+### GERENCIAMENTO DE PROJETOS
 
 * [Trello](https://www.trello.com/ "Grátis/Pago") _Gerencie seus projetos com quadros. É bom para projetos em grupo_
 
 * [Evernote](https://evernote.com/intl/pt-br "Grátis/Pago") _Notas autoadesivas na nuvem_
 
 ***
-### CURSOS - 
+
+### CURSOS 
 
 #####_Grátis_
 
@@ -89,7 +94,7 @@
 
 * [Aprenda Markdown](https://github.com/JosiasSalermo/aprendaMarkdown) _Comandos para deixar o README Bonito_
 
-### CURSOS - 
+### CURSOS 
 
 #####_Udemy_
 
@@ -97,15 +102,19 @@
 
 * [Web Design Completo: HTML5, CSS3 e JS + 5 Projetos](https://www.udemy.com/share/101sRiB0UfcF5XRHo=/)
 
+>JavaScript
 
 * [JavaScript Moderno do Básico ao Avançado (2020) - Udemy](https://www.udemy.com/share/1026xaB0UfcF5XRHo=/) 
 
+>Git e GitHub
 
 * [Git e GitHub Ninja](https://www.udemy.com/share/101rraB0UfcF5XRHo=/)
 
 
 ***
-### Documentação
+
+### DOCUMENTAÇÃO
+
 >HTML 
 * [W3Schools - HTML](https://www.w3schools.com/html/default.asp) 
 
@@ -116,7 +125,7 @@
 * [W3Schools - JavaScript](https://www.w3schools.com/js/default.asp)
 
 ***
-### YouTube
+### YOUTUBE
 
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)  _Programador Brasileiro que está morando no Canadá - Fala de Markeding para Programadores_
 
@@ -169,9 +178,10 @@
 * [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/featured) _Canal focado em ciêcia de dados_
 
 * [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) _Canal norte americano focado em programação e tutoriais de tecnologia_
+
 ***
 
-### Podcasts
+### PODCASTS
 
 * [Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf) _Podcast de tecnologia em geral da Alura_
 
@@ -181,6 +191,13 @@
 
 * [DevCast](https://open.spotify.com/show/6PvMCroPUkjVYV76TDcVNv) _Podcast de tecnologia em geral da Dev Media_
 
+* [FalaDev](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zYmYyZjJjL3BvZGNhc3QvcnNz) _Podcast da Rocketseat_
+
+* [Brzil JS](https://podcasts.google.com/?feed=aHR0cHM6Ly9icmF6aWxqcy5vcmcvZmVlZC9wb2RjYXN0) _Podcast da Maior Comunidade JS do Brasil_
+
+* [DataBaseCast](https://podcasts.google.com/?feed=aHR0cDovL3BpY2hpbGlhbmkuY29tLmJyL0RhdGFiYXNlY2FzdC9lcHMvRmVlZERhdGFiYXNlQ2FzdC54bWw) _Podcast brasileiro sobre Banco de Dados_
+
+* [DevPleno](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9iMmVlYzk4L3BvZGNhc3QvcnNz) _Insights e discussões de como ser um DevPleno e ter sucesso na carreira como desenvolvedor / programador._
 ***
 ### Sites 
 
