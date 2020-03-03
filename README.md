@@ -35,7 +35,9 @@
 * [Evernote](https://evernote.com/intl/pt-br "Grátis/Pago") _Notas autoadesivas na nuvem_
 
 ***
-### Cursos
+### CURSOS - 
+
+#####_Grátis_
 
 >C
 *  [C Progressivo](https://www.cprogressivo.net/p/curso-de-c-online-para-iniciantes.html) - _blog ensinando sobre a linguagem_
@@ -54,7 +56,6 @@
 >JavaScript
 * [JavaScript - IFRS](https://moodle.ifrs.edu.br/course/view.php?id=2006 "Grátis") _Introdutório a linguagem JavaScript_
 
-* [JavaScript Moderno do Básico ao Avançado (2020) - Udemy](https://www.udemy.com/share/1026x8B0UfcF5XRHo=/ "Pago") _Javascript moderno (ES6+), front-end e back-end (Node, Express, SQL e noSQL, React e Redux + Saga) - Full Stack 2020_
 
 * [JavaScript - Rocketseat](https://skylab.rocketseat.com.br/journey/starter "Grátis") _Introdução a linguagem_
 
@@ -73,7 +74,6 @@
 
 * [Estrutura de Dados e Algoritmos Java - Canal YouTube Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi "Grátis") _Estrutura de dados e algoritmos com Java_
 
-* [Java 13 Completo: Do Zero ao Profissional + Projetos Reais - Udemy](https://www.udemy.com/share/101rUmB0UfcF5XRHo=/) _Fundamentos Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate e mais_
 
 >Git e GitHub
 * [Introdução ao Git e Controle de Versões - Digital Innovation One](https://web.digitalinnovation.one/course/introducao-ao-git-e-controle-de-versoes/learning/42bf37cc-ed9c-4cee-ade4-d822f6a99f82/ "Grátis") _Introdutório ao Git_
@@ -83,6 +83,21 @@
 * [Curso Completo de Git](https://www.youtube.com/watch?v=OuOb1_qADBQ&t=708s "Grátis") _Canal do YouTube Banieky Lacerda_
 
 * [Aprenda Markdown](https://github.com/JosiasSalermo/aprendaMarkdown) _Comandos para deixar o README Bonito_
+
+### CURSOS - 
+
+#####_Udemy_
+
+>HTML,CSS
+
+* [Web Design Completo: HTML5, CSS3 e JS + 5 Projetos](https://www.udemy.com/share/101sRiB0UfcF5XRHo=/)
+
+
+* [JavaScript Moderno do Básico ao Avançado (2020) - Udemy](https://www.udemy.com/share/1026xaB0UfcF5XRHo=/) 
+
+
+* [Git e GitHub Ninja](https://www.udemy.com/share/101rraB0UfcF5XRHo=/)
+
 
 ***
 ### Documentação
